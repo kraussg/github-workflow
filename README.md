@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Gabby Krauss
 
 ## DUE: 30 Aug 2018
 
